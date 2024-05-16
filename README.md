@@ -1,6 +1,7 @@
-## naresh.r
-## 212223240104
+
 # Ex:5 - Create_Socket_for_HTTP_for_webpage_upload_and_download
+## NAME:NARESH.R
+## ROLL NO : 212223240104
 ## AIM :
 To write a PYTHON program for socket for HTTP for web page upload and download
 ## Algorithm
@@ -57,8 +58,10 @@ if __name__ == "__main__":
     download_file(host, port, 'example.txt')
     print("File downloaded successfully.")
 ```
+
 ## OUTPUT
-![320210733-4c063009-40e5-4eda-a63a-ea44a73ea6fb](https://github.com/nivetharajaa/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/120543388/800fa9ba-5264-4ef2-a29a-c80bd1bff9dd)
+
+![Screenshot 2024-05-16 165422](https://github.com/feryjfgkuyfgewjfgew/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/150319377/09042a8a-260a-4c95-82d9-7059ce4836c2)
 
 
 ## Result
